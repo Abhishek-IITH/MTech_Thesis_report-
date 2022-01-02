@@ -1,8 +1,7 @@
-# IIT Hyderabad Thesis template [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MTech Thesis report (stage I & II)
 
-This is a thesis template for BTech/MTech/MS/PhD degrees at IIT Hyderabad.
+Name: Abhishek Kumar
 
-## Contributors
+Roll No: SM20MTECH12012
 
-* Utpal Bora
-* [Saurabh Joshi](https://sbjoshi.github.io)
+IIT Hyderabad
